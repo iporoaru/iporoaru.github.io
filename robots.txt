@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iporoaru.github.io/DHx/sitemap_index.txt
+Sitemap: https://iporoaru.github.io/Tik/sitemap_index.txt
+Sitemap: https://iporoaru.github.io/gjY/sitemap_index.txt
+Sitemap: https://iporoaru.github.io/lOj/sitemap_index.txt
